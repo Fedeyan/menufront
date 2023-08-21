@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.addebd82.css",
+    "main.js": "/static/js/main.e2242e2a.js",
+    "static/media/hamburger-1238246_1280.jpg": "/static/media/hamburger-1238246_1280.d4822ef8e2db750dee29.jpg",
+    "static/media/3903248.jpg": "/static/media/3903248.9041256c7e75dfe0336b.jpg",
+    "static/media/pizza.jpg": "/static/media/pizza.d3e04f61cd010a300ad8.jpg",
+    "static/media/brand.png": "/static/media/brand.9e0f84b31ab33f040170.png",
+    "index.html": "/index.html",
+    "main.addebd82.css.map": "/static/css/main.addebd82.css.map",
+    "main.e2242e2a.js.map": "/static/js/main.e2242e2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addebd82.css",
+    "static/js/main.e2242e2a.js"
+  ]
+}
